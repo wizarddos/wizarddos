@@ -19,7 +19,7 @@ $ locate "gigs"
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wizarddos)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1711846" style='border:none;'></iframe>
+[![My TryHackMe profile](https://tryhackme-badges.s3.amazonaws.com/wizarddos.png)](https://tryhackme.com/r/p/wizarddos)
 
 For something custom made, head here - [https://www.fiverr.com/wizarddos](https://www.fiverr.com/wizarddos) 
 
