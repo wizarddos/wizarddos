@@ -19,6 +19,8 @@ $ locate "gigs"
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wizarddos)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1711846" style='border:none;'></iframe>
+
 For something custom made, head here - [https://www.fiverr.com/wizarddos](https://www.fiverr.com/wizarddos) 
 
 # 💻 Tech Stack:
